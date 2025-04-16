@@ -13,7 +13,8 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) QQ资料配置插件 ✨_
 [![GitHub](https://img.shields.io/badge/作者-Zhalslar-blue)](https://github.com/Zhalslar)
 
 </div>
-## 介绍
+
+## 🤝 介绍
 
 本插件利用Onebot协议接口配置QQ机器人的头像、昵称、签名、状态，查看\删除好友、群聊，查看点赞列表、清除未读等等
 
@@ -48,7 +49,6 @@ git clone https://github.com/Zhalslar/astrbot_plugin_QQProfile
 
 ### 示例图
 
-![eb62d8cb2e51b1caadab31f746ab923](https://github.com/user-attachments/assets/ca5dda46-5c7c-4ec2-bab8-eac2849e22fc)
 
 
 ## 👥 贡献指南
