@@ -16,7 +16,7 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) QQ资料配置插件 ✨_
 
 ## 🤝 介绍
 
-本插件利用Onebot协议接口配置QQ机器人的头像、昵称、签名、状态，查看\删除好友、群聊，查看点赞列表、清除未读等等
+本插件利用Onebot协议接口配置QQ机器人的头像、昵称、签名、状态
 
 ## 📦 安装
 
