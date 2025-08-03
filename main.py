@@ -13,7 +13,7 @@ from .status import status_mapping
     "astrbot_plugin_QQProfile",
     "Zhalslar",
     "[仅aiocqhttp] 配置bot的头像、昵称、签名、状态、机型等QQ资料",
-    "1.0.0",
+    "v1.1.1",
 )
 class QQProfilePlugin(Star):
     def __init__(self, context: Context):
