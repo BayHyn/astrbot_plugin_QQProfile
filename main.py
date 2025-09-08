@@ -1,15 +1,13 @@
-import builtins
+
 from astrbot.api.event import filter
 from astrbot.api.star import Context, Star, register
 import astrbot.api.message_components as Comp
 from astrbot.core.config.astrbot_config import AstrBotConfig
-from astrbot.core.message.message_event_result import MessageEventResult
 from astrbot.core.platform import AstrMessageEvent
 from astrbot.core.platform.sources.aiocqhttp.aiocqhttp_message_event import (
     AiocqhttpMessageEvent,
 )
 from astrbot import logger
-from astrbot.core.provider.entities import ProviderRequest
 from astrbot.core.star.filter.permission import PermissionType
 from astrbot.core.star.star_tools import StarTools
 from .utils import download_image, get_nickname
