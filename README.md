@@ -44,6 +44,8 @@ git clone https://github.com/Zhalslar/astrbot_plugin_QQProfile
 |  设置昵称 XXX  |        将Bot的昵称改为XXX         |
 |  设置签名 XXX  | 将Bot的签名改为XXX，并同步空间（可在QQ里关掉） |
 |  设置状态 XXX  |     设置Bot的在线状态（如“我的电量”）     |
+|  切换人格 XXX  |     设置bot人格为XXX，同时切换该人格对应的昵称和头像    |
+|  人格列表  |     查看所有人格的详细信息     |
 
 ### 示例图
 
