@@ -1,4 +1,3 @@
-
 from astrbot.api.event import filter
 from astrbot.api.star import Context, Star, register
 import astrbot.api.message_components as Comp
@@ -14,18 +13,13 @@ from .utils import download_image, get_nickname
 from .status import status_mapping
 
 
-@register(
-    "astrbot_plugin_QQProfile",
-    "Zhalslar",
-    "[仅aiocqhttp] 配置bot的头像、昵称、签名、状态、机型等QQ资料",
-    "v1.1.2",
-)
+@register("astrbot_plugin_qqprofile", "Zhalslar", "...", "...")
 class QQProfilePlugin(Star):
     def __init__(self, context: Context, config: AstrBotConfig):
         super().__init__(context)
         self.conf = config
         self.curr_nickname = None
-        self.avatar_dir = StarTools.get_data_dir("astrbot_plugin_QQProfile") / "avatar"
+        self.avatar_dir = StarTools.get_data_dir("astrbot_plugin_qqprofile") / "avatar"
         self.avatar_dir.mkdir(parents=True, exist_ok=True)
 
     async def get_curr_persona_id(self, event: AstrMessageEvent) -> str | None:

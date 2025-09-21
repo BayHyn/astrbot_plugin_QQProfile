@@ -3,7 +3,7 @@
 
 ![:name](https://count.getloli.com/@astrbot_plugin_QQProfile?name=astrbot_plugin_QQProfile&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
-# astrbot_plugin_QQProfile
+# astrbot_plugin_qqprofile
 
 _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) QQ资料配置插件 ✨_  
 
@@ -20,19 +20,19 @@ _✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) QQ资料配置插件 ✨_
 
 ## 📦 安装
 
-- 可以直接在astrbot的插件市场搜索astrbot_plugin_QQProfile，点击安装即可  
+- 可以直接在astrbot的插件市场搜索astrbot_plugin_qqprofile，点击安装即可  
 
 ```bash
 # 克隆仓库到插件目录
 cd /AstrBot/data/plugins
-git clone https://github.com/Zhalslar/astrbot_plugin_QQProfile
+git clone https://github.com/Zhalslar/astrbot_plugin_qqprofile
 
 # 控制台重启AstrBot
 ```
 
 ## ⚙️ 配置
 
-请在astrbot面板配置，插件管理 -> astrbot_plugin_QQProfile -> 操作 -> 插件配置
+请在astrbot面板配置，插件管理 -> astrbot_plugin_qqprofile -> 操作 -> 插件配置
 
 ## 🐔 使用说明
 
